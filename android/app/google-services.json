@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "681306860780",
+    "firebase_url": "https://reservasflutter-e0afb.firebaseio.com",
+    "project_id": "reservasflutter-e0afb",
+    "storage_bucket": "reservasflutter-e0afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681306860780:android:161fb2ea39e00840b289c9",
+        "android_client_info": {
+          "package_name": "com.example.app_reservas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681306860780-2jqkflpl80bvl2qqaurrtn2ed77329ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhi2Jn73vEtKtGp_vhz5lT1Yhys36BdDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681306860780-2jqkflpl80bvl2qqaurrtn2ed77329ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681306860780:android:c58eecabac24e33cb289c9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681306860780-nkreo6uur77k8ehjj4do9s9dj3c7u40c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_auth_provider",
+            "certificate_hash": "2409e255c85c6326cf56bca99c5e48b32228d86e"
+          }
+        },
+        {
+          "client_id": "681306860780-2jqkflpl80bvl2qqaurrtn2ed77329ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhi2Jn73vEtKtGp_vhz5lT1Yhys36BdDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681306860780-2jqkflpl80bvl2qqaurrtn2ed77329ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
